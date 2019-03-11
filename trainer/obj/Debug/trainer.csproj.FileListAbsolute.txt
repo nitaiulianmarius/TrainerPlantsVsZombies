@@ -1,0 +1,9 @@
+C:\Users\iuli\Desktop\Jocuri\Plants vs Zombies\trainer\trainer\bin\Debug\trainer.exe.config
+C:\Users\iuli\Desktop\Jocuri\Plants vs Zombies\trainer\trainer\bin\Debug\trainer.exe
+C:\Users\iuli\Desktop\Jocuri\Plants vs Zombies\trainer\trainer\bin\Debug\trainer.pdb
+C:\Users\iuli\Desktop\Jocuri\Plants vs Zombies\trainer\trainer\obj\Debug\trainer.csprojResolveAssemblyReference.cache
+C:\Users\iuli\Desktop\Jocuri\Plants vs Zombies\trainer\trainer\obj\Debug\trainer.Form1.resources
+C:\Users\iuli\Desktop\Jocuri\Plants vs Zombies\trainer\trainer\obj\Debug\trainer.Properties.Resources.resources
+C:\Users\iuli\Desktop\Jocuri\Plants vs Zombies\trainer\trainer\obj\Debug\trainer.csproj.GenerateResource.Cache
+C:\Users\iuli\Desktop\Jocuri\Plants vs Zombies\trainer\trainer\obj\Debug\trainer.exe
+C:\Users\iuli\Desktop\Jocuri\Plants vs Zombies\trainer\trainer\obj\Debug\trainer.pdb
